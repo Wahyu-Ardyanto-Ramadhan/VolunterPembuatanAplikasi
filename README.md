@@ -5,4 +5,3 @@ Repository ini digunakan sebagai sayembara pncarian volunter untuk pembuatan apl
 
 Berikut daftar Volunter yang diterima:
 * Oon Arfiandwi, [oor.or.id](https:://oo.or.id)
-* Ardyanto Ramadhan, [Linkedin](https://ww.linkedin.com/in/ardyanto/).
